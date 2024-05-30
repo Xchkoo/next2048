@@ -1,6 +1,6 @@
 # Project Name
 
-Welcome to **Project Name**! This project is designed to [brief project description].
+Welcome to **Next 2048**! This project is designed to ~~waste our life~~ play 2048 locally.
 
 ## Getting Started
 
@@ -39,14 +39,6 @@ Ensure you have the following installed on your machine:
     ```
     http://localhost:3000/
     ```
-
-## Usage
-
-Explain how to use your project or provide links to documentation.
-
-## Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on the code of conduct and the process for submitting pull requests.
 
 ## License
 
