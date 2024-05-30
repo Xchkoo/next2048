@@ -1,4 +1,4 @@
-# Project Name
+# Next 2048
 
 Welcome to **Next 2048**! This project is designed to ~~waste our life~~ play 2048 locally.
 
