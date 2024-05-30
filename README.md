@@ -44,10 +44,6 @@ Ensure you have the following installed on your machine:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- [List of any acknowledgments, inspirations, etc.]
-
 ---
 
 *README.md file created with assistance from [ChatGPT](https://www.openai.com/)*
